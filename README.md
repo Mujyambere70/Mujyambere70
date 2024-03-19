@@ -1,14 +1,13 @@
-              !https://github.com/Mujyambere70/Mujyambere70/issues/1#issuecomment-2007835459
+              ![https://github.com/Mujyambere70/Mujyambere70/issues/1#issuecomment-2007835459](https://private-user-images.githubusercontent.com/141992288/314180562-a1af1aa8-e328-4a70-9440-a0c01fe53beb.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4NzI0MzcsIm5iZiI6MTcxMDg3MjEzNywicGF0aCI6Ii8xNDE5OTIyODgvMzE0MTgwNTYyLWExYWYxYWE4LWUzMjgtNGE3MC05NDQwLWEwYzAxZmU1M2JlYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxOVQxODE1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNWYwYjI5ZjBiZDQ0YmI1ZjQ3MGRlZWFiYmQxNTQ3N2Q1OTAxMzQ0OTU4ZDYxYzhhODdhMmQ5NWEzNzhkYmI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GzG0UqPG4KK9jOgBYnVO4SIFqCTcnFeAka9gUl1Hr5E)
 
 
 # Mujyambere Jean Michel
 
-Email: mujyamberejean9@gmail.com | Location: London, UK  
-LinkedIn: [Mujyambere Jean Michel](https://www.linkedin.com/in/mujyambere-jean-michel-a78913206/)  
-Phone: +91-7988004133  
+Email: mujyamberejean9@gmail.com   
+LinkedIn: [Mujyambere Jean Michel](https://www.linkedin.com/in/mujyambere-jean-michel-a78913206/)   
 GitHub: [Mujyambere70](https://github.com/Mujyambere70)  
 Portfolio: [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/MJ23120010683/)
-
+ 
 ## Summary
 I am a software engineer with a Bachelor’s degree in Computer Applications and a diploma in mathematics and chemistry with education. I have completed a software engineering bootcamp at HyperionDev, where I learned how to design, write, test, and debug industry-standard code using Python and other programming languages. I have also gained certifications from Google in various domains, such as data analytics, UX design, digital marketing, cybersecurity, and project management. I have experience in Python analytics, teaching, and virtual assistance, working with diverse clients and organizations. I am passionate about solving problems and enhancing user experiences with technology. I am always eager to learn new things and challenge myself. I am open to new opportunities, collaborations, and discussions in the software engineering field.
 
