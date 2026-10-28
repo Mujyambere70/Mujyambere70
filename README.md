@@ -1,51 +1,115 @@
-   # Mujyambere Jean Michel
-![Profile Picture](https://github.com/Mujyambere70/Mujyambere70/blob/main/IMG-20240111-WA0023_1.jpg)
+<div align="center">
 
+<img src="profile.png" width="150" alt="Jean Michel Mujyambere">
 
-Email: mujyamberejean9@gmail.com   
-LinkedIn: [Mujyambere Jean Michel](https://www.linkedin.com/in/mujyambere-jean-michel-a78913206/)   
-GitHub: [Mujyambere70](https://github.com/Mujyambere70)  
-Portfolio: [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/MJ23120010683/)
- 
-## Summary
-I am a software engineer with a Bachelor’s degree in Computer Applications and a diploma in mathematics and chemistry with education. I have completed a software engineering bootcamp at HyperionDev, where I learned how to design, write, test, and debug industry-standard code using Python and other programming languages. I have also gained certifications from Google in various domains, such as data analytics, UX design, digital marketing, cybersecurity, and project management. I have experience in Python analytics, teaching, and virtual assistance, working with diverse clients and organizations. I am passionate about solving problems and enhancing user experiences with technology. I am always eager to learn new things and challenge myself. I am open to new opportunities, collaborations, and discussions in the software engineering field.
+# Hi, I'm Jean Michel Mujyambere 👋
 
-## Technical Skills
-- Languages: Python, JavaScript, C/C++, Java
-- Tools: Django, GitHub, Git, Bootstrap, JavaScript ES6, jQuery, MySQL
-- Operating System: Linux, Windows
+**Software Engineer · Python Development · Data Analytics · UX Design · Machine Learning**
 
-## Projects
-### Task Management System
-I developed a task management system featuring user authentication, task assignment, reporting, and statistics generation functionalities, utilizing file handling and datetime manipulation.
+📍 Krasnoyarsk, Russia &nbsp;·&nbsp; 🎓 Master's student at Siberian Federal University
 
-### Chess Match Video Game
-I led the development of a comprehensive Full Chess Match Video Game using Python, offering users a complete and immersive chess gaming experience.
+[![Email](https://img.shields.io/badge/Email-mujyamberejean9%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mujyamberejean9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Michel%20Mujyambere-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujyambere-jean-michel-a78913206/)
+[![HyperionDev](https://img.shields.io/badge/Portfolio-HyperionDev-1E3A5F)](https://www.hyperiondev.com/portfolio/MJ23120010683/)
 
-### Finance Calculator
-I spearheaded the development of a Finance Calculator using Python, providing users with a powerful tool to perform various financial calculations.
+</div>
 
-### Random Password Generator
-I developed a Random Password Generator that creates secure and customizable passwords using HTML, CSS, and JavaScript.
+---
 
-## Education
-- Skills Bootcamp, Software Engineering, HyperionDev, Dec 2023 - Sep 2024
-- Bachelor’s degree, Computer Applications, Maharishi Markandeshwar (Deemed to be University), Aug 2022 - Jun 2025
-- Advanced diploma in mathematics and chemistry with education, University of Rwanda, Oct 2018 - Nov 2022
+## About me
 
-## Experience
-- YBI Foundation, Internship, Remote, Nov 2022 - Jan 2023
-- Essifih Muhanga, Internship, Oct 2021 - Feb 2022
-- Parke Lane People Limited, Freelance, Jan 2020 - Jan 2022
+I am a results-driven software engineer with over 3 years of technical and educational experience. I work mainly with **Python, data analytics and full-stack web development**, and I hold Google certificates in Advanced Data Analytics, Cybersecurity and UX Design.
 
-## Volunteer Experience
-- Tutor & Teaching Jobs Online, Freelance, May 2019 - Sep 2020
+Right now I am doing a **Master's degree in Applied Mathematics and Informatics (Data Analysis in Science and Entrepreneurship)** at Siberian Federal University in Krasnoyarsk, Russia. I like turning small ideas into complete, tested applications, with clean code, a clear interface and the security they need.
 
-## Certifications
-- Google Advanced Data Analytics Certificate
+- 🔭 Currently: Master's studies — machine learning, computational statistics, PostgreSQL
+- 🌱 Learning: machine learning, data analysis in R and Python, AWS Cloud Practitioner
+- 💬 Ask me about: Python, Flask, SQL, data analytics
+- 🌍 Languages: English, Russian (B1–B2), French, Kinyarwanda
+
+---
+
+## 🚀 Featured projects
+
+Four complete Python/Flask web applications. Each has an admin panel, security (hashed passwords, CSRF protection, parameterised SQL) and automated tests.
+
+| Project | What it is | Tech | Tests |
+|---|---|---|---|
+| 🛒 **[Yo Delivery](https://github.com/Mujyambere70/Yo-Delivery)** | E-commerce & delivery platform: 42-product catalogue, search and filters, cart, coupons, checkout, live order tracking, invoices, and an admin panel with sales dashboard, product photos, orders, customers and activity log | Python, Flask, SQLite, Jinja2, JavaScript | 49 ✅ |
+| 🏦 **[PyBank](https://github.com/Mujyambere70/PyBank)** | Online banking system (OOP): account opening, deposits, withdrawals, two-step transfers with PIN, fixed deposits, payees, statements and receipts, plus a bank back office with staff roles, reversals and audit log | Python, Flask, SQLite, OOP | 62 ✅ |
+| ✅ **[TaskFlow](https://github.com/Mujyambere70/Task_Management_System)** | Team task manager rebuilt from my bootcamp console project: drag-and-drop Kanban board, dashboard, calendar, projects, checklists, comments, reports with CSV; admin and member roles | Python, Flask, SQLite, JavaScript | 46 ✅ |
+| 💰 **[CalcWise](https://github.com/Mujyambere70/Finance-Calculators-Project)** | Finance web app: investment, home loan, EMI with real APR, savings goal and retirement calculators with charts; live currency converter for 157 currencies; scientific calculator; OTP/authenticator and password generators | Python, Flask, SQLite, JavaScript | 75 ✅ |
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Frameworks & databases**
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+**Data & tools**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+**Also:** OOP · unit testing · data analytics and dashboards · cybersecurity basics (HTTPS, CSRF, hashing) · Agile · PyGame · Tkinter
+
+---
+
+## 💼 Experience
+
+| Role | Organisation | Dates |
+|---|---|---|
+| **Python & Analytics Intern** (remote) — built ML models for business analytics (+15% prediction accuracy); data-driven web apps with Python, SQL and Tableau | YBI Foundation | 11/2022 – 01/2023 |
+| **Mathematics / Chemistry Teacher** — improved student pass rates by 25% with interactive lesson plans | Essifih Muhanga | 10/2021 – 02/2022 |
+| **Freelance Virtual Assistant** — automated scheduling and data entry, cutting admin time by 40% | Parke Lane People Limited | 01/2020 – 01/2022 |
+
+---
+
+## 🎓 Education
+
+| Programme | Institution | Dates |
+|---|---|---|
+| **Master's — Applied Mathematics and Informatics** (Data Analysis in Science and Entrepreneurship) | Siberian Federal University, Krasnoyarsk | 09/2026 – present |
+| **Preparatory Programme for International Students** (Russian, Mathematics, Physics, Informatics, Chemistry) | Siberian Federal University | 01/2025 – 08/2026 |
+| **Bachelor of Computer Applications** (AI & ML) | Maharishi Markandeshwar University, India | 08/2022 – 06/2025 |
+| **Software Engineering Bootcamp** | HyperionDev | 12/2023 – 06/2024 |
+| **Advanced Diploma in Mathematics and Chemistry with Education** | University of Rwanda | 10/2018 – 11/2022 |
+
+---
+
+## 📜 Certifications
+
+- Google Advanced Data Analytics Professional Certificate
+- Google Cybersecurity Professional Certificate
 - Google UX Design Professional Certificate
-- Google Data Analytics Professional Certificate
-- Google Digital Marketing and E-Commerce Professional Certificate
-- Google Business Intelligence Certificate
-- Google Cybersecurity Certificate
-- Google Project Management Certificate
+- Google Project Management Professional Certificate
+- AWS Cloud Practitioner — *in progress*
+
+---
+
+<div align="center">
+
+**Open to internships, junior software / data roles and collaborations.**
+Feel free to reach out by email or LinkedIn. · Открыт к стажировкам и сотрудничеству.
+
+</div>
