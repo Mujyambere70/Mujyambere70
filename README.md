@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" width="150" alt="Jean Michel Mujyambere">
+<img src="profile.png" width="150" alt="Jean Michel Mujyambere" style="border-radius: 50%;">
 
 # Hi, I'm Jean Michel Mujyambere 👋
 
@@ -18,12 +18,12 @@
 
 ## About me
 
-I am a results-driven software engineer with over 3 years of technical and educational experience. I work mainly with **Python, data analytics and full-stack web development**, and I hold Google certificates in Advanced Data Analytics, Cybersecurity and UX Design.
+I am a results-driven software engineer with over 3 years of technical and educational experience. I work mainly with **Python, data analytics, and full-stack web development**, and I hold Google certificates in Advanced Data Analytics, Cybersecurity, and UX Design.
 
-Right now I am doing a **Master's degree in Applied Mathematics and Informatics (Data Analysis in Science and Entrepreneurship)** at Siberian Federal University in Krasnoyarsk, Russia. I like turning small ideas into complete, tested applications, with clean code, a clear interface and the security they need.
+Right now, I am pursuing a **Master's degree in Applied Mathematics and Informatics (Data Analysis in Science and Entrepreneurship)** at Siberian Federal University in Krasnoyarsk, Russia. I enjoy turning ideas into complete, tested applications with clean code, intuitive interfaces, and robust security.
 
 - 🔭 Currently: Master's studies — machine learning, computational statistics, PostgreSQL
-- 🌱 Learning: machine learning, data analysis in R and Python, AWS Cloud Practitioner
+- 🌱 Learning: Machine learning, data analysis in R and Python, AWS Cloud Practitioner
 - 💬 Ask me about: Python, Flask, SQL, data analytics
 - 🌍 Languages: English, Russian (B1–B2), French, Kinyarwanda
 
@@ -31,14 +31,16 @@ Right now I am doing a **Master's degree in Applied Mathematics and Informatics 
 
 ## 🚀 Featured projects
 
-Four complete Python/Flask web applications. Each has an admin panel, security (hashed passwords, CSRF protection, parameterised SQL) and automated tests.
+Four complete Python/Flask web applications — **all four are live online**. Click **Live demo** to try them. Each features an admin panel, security (hashed passwords, CSRF protection, parameterised SQL), and automated tests.
 
-| Project | What it is | Tech | Tests |
-|---|---|---|---|
-| 🛒 **[Yo Delivery](https://github.com/Mujyambere70/Yo-Delivery)** | E-commerce & delivery platform: 42-product catalogue, search and filters, cart, coupons, checkout, live order tracking, invoices, and an admin panel with sales dashboard, product photos, orders, customers and activity log | Python, Flask, SQLite, Jinja2, JavaScript | 49 ✅ |
-| 🏦 **[PyBank](https://github.com/Mujyambere70/PyBank)** | Online banking system (OOP): account opening, deposits, withdrawals, two-step transfers with PIN, fixed deposits, payees, statements and receipts, plus a bank back office with staff roles, reversals and audit log | Python, Flask, SQLite, OOP | 62 ✅ |
-| ✅ **[TaskFlow](https://github.com/Mujyambere70/Task_Management_System)** | Team task manager rebuilt from my bootcamp console project: drag-and-drop Kanban board, dashboard, calendar, projects, checklists, comments, reports with CSV; admin and member roles | Python, Flask, SQLite, JavaScript | 46 ✅ |
-| 💰 **[CalcWise](https://github.com/Mujyambere70/Finance-Calculators-Project)** | Finance web app: investment, home loan, EMI with real APR, savings goal and retirement calculators with charts; live currency converter for 157 currencies; scientific calculator; OTP/authenticator and password generators | Python, Flask, SQLite, JavaScript | 75 ✅ |
+> ⏳ The demos run on Render's free plan. If a site hasn't been visited recently, the first page can take up to a minute to load.
+
+| Project | What it is | Tech | Tests | Try it |
+|---|---|---|---|---|
+| 🛒 **[Yo Delivery](https://github.com/Mujyambere70/Yo-Delivery)** | E-commerce & delivery platform: 42-product catalogue, cart, coupons, checkout, live tracking, multi-seller support, Stripe test payments, returns, 7 languages, 8 currencies, and a full admin panel | Python, Flask, PostgreSQL, Jinja2, JS | 87 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=render&logoColor=black)](https://yo-delivery-michel.onrender.com/) |
+| 🏦 **[PyBank](https://github.com/Mujyambere70/PyBank)** | International online banking (OOP): transfers with PIN, fixed deposits, loans, PDF e-statements, Web Push. Features 6 languages, 8 currencies, staff approvals, and a back office with reversals and audit logs | Python, Flask, PostgreSQL, OOP, Babel | 101 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=render&logoColor=black)](https://michel-pybank.onrender.com/) |
+| ✅ **[TaskFlow](https://github.com/Mujyambere70/Task_Management_System)** | Team task manager: drag-and-drop Kanban board, dashboard, calendar, projects, checklists, comments, CSV reports; admin and member roles | Python, Flask, SQLite, JavaScript | 46 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=render&logoColor=black)](https://michel-task-management-system.onrender.com/) |
+| 💰 **[CalcWise](https://github.com/Mujyambere70/Finance-Calculators-Project)** | Finance web app: investment, home loan, EMI with real APR, savings goal, and retirement calculators with charts; live currency converter for 157 currencies; scientific calculator | Python, Flask, SQLite, JavaScript | 75 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=render&logoColor=black)](https://michel-finance-calculators.onrender.com/) |
 
 ---
 
@@ -58,7 +60,6 @@ Four complete Python/Flask web applications. Each has an admin panel, security (
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
@@ -69,9 +70,8 @@ Four complete Python/Flask web applications. Each has an admin panel, security (
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-**Also:** OOP · unit testing · data analytics and dashboards · cybersecurity basics (HTTPS, CSRF, hashing) · Agile · PyGame · Tkinter
+**Also:** OOP · unit testing · data analytics & dashboards · cybersecurity basics (HTTPS, CSRF, hashing) · Agile · PyGame · Tkinter
 
 ---
 
@@ -109,7 +109,7 @@ Four complete Python/Flask web applications. Each has an admin panel, security (
 
 <div align="center">
 
-**Open to internships, junior software / data roles and collaborations.**
+**Open to internships, junior software / data roles, and collaborations.**
 Feel free to reach out by email or LinkedIn. · Открыт к стажировкам и сотрудничеству.
 
 </div>
