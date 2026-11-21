@@ -24,23 +24,25 @@ Right now, I am pursuing a **Master's degree in Applied Mathematics and Informat
 
 - 🔭 Currently: Master's studies — machine learning, computational statistics, PostgreSQL
 - 🌱 Learning: Machine learning, data analysis in R and Python, AWS Cloud Practitioner
-- 💬 Ask me about: Python, Flask, SQL, data analytics
+- 💬 Ask me about: Python, Flask, PostgreSQL, deploying with Docker and Fly.io, data analytics
 - 🌍 Languages: English, Russian (B1–B2), French, Kinyarwanda
 
 ---
 
 ## 🚀 Featured projects
 
-Four complete Python/Flask web applications — **all four are live online**. Click **Live demo** to try them. Each features an admin panel, security (hashed passwords, CSRF protection, parameterised SQL), and automated tests.
+Four complete Python/Flask web applications — **all four run online on Fly.io with Neon PostgreSQL**. Click **Live demo** to try them. Each one has a back office where the website content is managed without code, security (hashed passwords, two-step sign-in, CSRF protection, Content-Security-Policy, rate limits, parameterised SQL), several languages, a status page and automated tests that pass on **SQLite and PostgreSQL**.
 
-> ⏳ The demos run on Fly.io's free tier: machines automatically scale to zero when idle to save resources, so the first page load after a period of inactivity may take 5–10 seconds to wake up.
+> ⏳ The demos run on Fly.io's free tier: machines stop when nobody uses them, so the first page after a quiet period may take 5–10 seconds to wake up.
 
 | Project | What it is | Tech | Tests | Try it |
 |---|---|---|---|---|
-| 🛒 **[Yo Delivery](https://github.com/Mujyambere70/Yo-Delivery)** | E-commerce & delivery platform: 42-product catalogue, cart, coupons, checkout, live tracking, multi-seller support, Stripe test payments, returns, 7 languages, 8 currencies, and a full admin panel | Python, Flask, PostgreSQL, Jinja2, JS | 87 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://yo-delivery.fly.dev/) |
-| 🏦 **[PyBank](https://github.com/Mujyambere70/PyBank)** | International online banking (OOP): transfers with PIN, fixed deposits, loans, PDF e-statements, Web Push. Features 6 languages, 8 currencies, staff approvals, and a back office with reversals and audit logs | Python, Flask, PostgreSQL, OOP, Babel | 101 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://michel-pybank.fly.dev/) |
-| ✅ **[TaskFlow](https://github.com/Mujyambere70/Task_Management_System)** | Team task manager: drag-and-drop Kanban board, dashboard, calendar, projects, checklists, comments, CSV reports; admin and member roles | Python, Flask, SQLite, JavaScript | 46 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://michel-taskflow.fly.dev/) |
-| 💰 **[CalcWise](https://github.com/Mujyambere70/Finance-Calculators-Project)** | Finance web app: investment, home loan, EMI with real APR, savings goal, and retirement calculators with charts; live currency converter for 157 currencies; scientific calculator | Python, Flask, SQLite, JavaScript | 75 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://calcwise.fly.dev/) |
+| 🛒 **[Yo Delivery 9](https://github.com/Mujyambere70/Yo-Delivery)** | A "super app" for the whole world: online shop and marketplace, courier service, bus / train / flight tickets with seat maps and QR e-tickets, wallet, rewards and chat — plus the team that runs it: staff, shifts, payroll, tax invoices, help desk, analytics and forecasts. Site content edited without code, 7 languages, 154 currencies | Python, Flask, PostgreSQL, Redis (optional), Stripe test mode, JS | 362 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://yo-delivery.fly.dev/) |
+| 🏦 **[PyBank 4](https://github.com/Mujyambere70/PyBank)** | International online banking (OOP): accounts in several currencies, transfers with PIN, cards with controls, bills and standing instructions, fixed deposits, loans, PDF e-statements, ISO 20022 payment files, budgets and insights. Staff back office with job roles, the four-eyes rule, suspicious-activity flags and a website managed by staff, 6 languages | Python, Flask, PostgreSQL, OOP, Babel, reportlab | 143 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://michel-pybank.fly.dev/) |
+| ✅ **[TaskFlow 2](https://github.com/Mujyambere70/Task_Management_System)** | Team task manager: several workspaces, a live Kanban board (WebSocket), deadline reminders by e-mail, file attachments, time tracking, burndown charts, and a resume (CV) builder with a link to share; 7 languages | Python, Flask, PostgreSQL, WebSocket, Babel, Pillow | 109 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://michel-taskflow.fly.dev/) |
+| 💰 **[CalcWise 2](https://github.com/Mujyambere70/Finance-Calculators-Project)** | Finance and tax web app: investment (with a Monte Carlo range of outcomes), home loan, EMI with real APR, savings goal, retirement and inflation calculators; salary tax for Rwanda (PAYE) and Russia (NDFL); compare two plans; PDF reports; free accounts and rate alerts; converter for 157 currencies; back office; English, Russian, French; public API (OpenAPI) | Python, Flask, PostgreSQL, reportlab, segno, JS | 130 ✅ | [![Live demo](https://img.shields.io/badge/Live_demo-46E3B7?logo=flydotio&logoColor=black)](https://calcwise.fly.dev/) |
+
+**Together:** 744 automated tests · Docker + Fly.io deployment with GitHub Actions (tests first, then deploy) · accessibility audits with axe-core (WCAG 2.1 AA) · a full project report (PDF + Word) for every version.
 
 ---
 
@@ -62,16 +64,20 @@ Four complete Python/Flask web applications — **all four are live online**. Cl
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_PostgreSQL-00E599?logo=postgresql&logoColor=black)
 
 **Data & tools**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?logo=flydotio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-**Also:** OOP · unit testing · data analytics & dashboards · cybersecurity basics (HTTPS, CSRF, hashing) · Agile · PyGame · Tkinter
+**Also:** OOP · unit testing · REST / JSON APIs and OpenAPI · i18n (7 languages) · PDF generation · data analytics & dashboards · Monte Carlo simulation · cybersecurity basics (HTTPS, CSRF, CSP, hashing, two-step sign-in) · accessibility (WCAG 2.1) · Agile · PyGame · Tkinter
 
 ---
 
